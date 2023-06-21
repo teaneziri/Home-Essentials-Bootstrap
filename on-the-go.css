@@ -1,0 +1,51 @@
+section#bath .main-img {
+  width: 500px;
+}
+
+.bg-color-1 {
+  background: rgba(196, 193, 151, 255);
+}
+
+.bg-color-2 {
+  background: rgba(254, 250, 240, 255);
+}
+
+.card {
+  background-color: rgba(254, 250, 240, 255);
+}
+
+.photo-text {
+  width: 550px;
+  height: 280px;
+  color: rgba(232, 229, 155, 255);
+}
+section#stay-inspired ul li,
+section#footer ul li {
+  list-style-type: none;
+}
+
+section#stay-inspired form input {
+  background: rgba(232, 229, 155, 255);
+}
+
+.bg-color3 {
+  background-color: rgba(221, 221, 204, 255);
+}
+.bg-color4 {
+  background-color: rgba(90, 83, 65, 255);
+}
+.bg-color5 {
+  background: rgba(232, 229, 155, 255);
+}
+
+.btn {
+  background-color: rgba(90, 83, 65, 255);
+  color: white;
+  border: none;
+}
+
+.btn:hover {
+  background-color: rgba(196, 193, 151, 255);
+  border: 1px solid rgba(90, 83, 65, 255);
+  color: rgba(90, 83, 65, 255);
+}
