@@ -1,0 +1,23 @@
+section#login .container {
+  height: 630px;
+}
+section#create-account .container {
+  height: 300px;
+}
+
+body {
+  background: rgba(221, 221, 204, 255);
+}
+
+.bg-input {
+  background: rgba(221, 221, 204, 255);
+}
+
+.bg-button {
+  background: rgba(90, 83, 65, 255);
+}
+
+a {
+  color: black;
+  font-style: italic;
+}
