@@ -1,0 +1,86 @@
+.bg-color {
+  background-color: rgba(254, 250, 240, 255);
+}
+
+.bg-color1 {
+  background-color: rgba(196, 193, 151, 255);
+}
+
+.btn {
+  background-color: rgba(90, 83, 65, 255);
+  color: white;
+  border: none;
+}
+
+.btn:hover {
+  background-color: rgba(196, 193, 151, 255);
+  border: 1px solid rgba(90, 83, 65, 255);
+  color: rgba(90, 83, 65, 255);
+}
+
+.bg-image img {
+  width: 300px;
+}
+
+section#shop-collections img {
+  filter: brightness(50%);
+}
+
+.bg-color3 {
+  background-color: rgba(221, 221, 204, 255);
+}
+.bg-color4 {
+  background-color: rgba(90, 83, 65, 255);
+}
+.bg-color5 {
+  background: rgba(232, 229, 155, 255);
+}
+
+.bg-success {
+  --bs-bg-opacity: 1;
+  background-color: rgba(
+    var(--bs-success-rgb),
+    var(--bs-bg-opacity)
+  ) !important;
+}
+
+section#mission img {
+  width: 140px;
+}
+
+section#follow-us img {
+  width: 550px;
+  height: 280px;
+}
+
+.photo-text {
+  width: 550px;
+  height: 280px;
+  color: rgba(232, 229, 155, 255);
+}
+section#stay-inspired ul li,
+section#footer ul li {
+  list-style-type: none;
+}
+
+section#stay-inspired form input {
+  background: rgba(232, 229, 155, 255);
+}
+
+.c-item {
+  height: 650px;
+}
+
+.c-img {
+  height: 110%;
+  object-fit: cover;
+  filter: brightness(0.7);
+}
+.bg-header-top {
+  background: rgba(232, 229, 155, 255);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
