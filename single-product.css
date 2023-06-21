@@ -1,0 +1,48 @@
+section#product-info .cart {
+  background: rgba(90, 83, 65, 255);
+}
+
+section#stay-inspired form input {
+  background: rgba(232, 229, 155, 255);
+}
+
+section#stay-inspired ul li,
+section#footer ul li {
+  list-style-type: none;
+}
+
+.bg-color5 {
+  background: rgba(232, 229, 155, 255);
+}
+
+section#stay-inspired button {
+  background: rgba(232, 229, 155, 255);
+}
+
+.bg-color {
+  background-color: rgba(254, 250, 240, 255);
+}
+
+section#questions input {
+  background: rgba(254, 250, 240, 255);
+}
+
+section#questions button {
+  background: rgba(254, 250, 240, 255);
+}
+
+.btn:hover {
+  background-color: rgba(196, 193, 151, 255);
+  border: 1px solid rgba(90, 83, 65, 255);
+  color: rgba(90, 83, 65, 255);
+}
+
+.bg-color-button {
+  background-color: rgba(90, 83, 65, 255);
+}
+
+.btn {
+  background-color: rgba(90, 83, 65, 255);
+  color: white;
+  border: none;
+}
